@@ -52,6 +52,7 @@
         <module>common-test</module>
         <module>model</module>
         <module>json</module>
+        <module>json-schema-gen-v4</module>
     </modules>
     <dependencyManagement>
       <dependencies>
